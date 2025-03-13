@@ -1,10 +1,10 @@
 import React from 'react';
+import Menu from './komponenty/menu/menu';
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Soc-Sit</h1>
-    </div>
+    <Menu />
   );
 }
 
